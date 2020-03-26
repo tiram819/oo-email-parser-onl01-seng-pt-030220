@@ -15,3 +15,5 @@ class EmailParser
     @email.split.map { split here also }
 
 end
+
+end
